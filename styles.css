@@ -1,0 +1,9 @@
+
+
+    button#uelz-button{
+        font-weight: 600;
+        line-height: 0.5rem;
+        padding: 1em;
+        width: fit-content;
+        height: 4em;
+    }
